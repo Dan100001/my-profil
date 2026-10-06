@@ -1,7 +1,4 @@
-<div align="center">
-  <img width="498" height="200" alt="btth-banner" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGtkanR0YzFhaWsxbjQ5cnk0OWgyZzlyZXRsNHV4cGg4ZW85amc1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1D9WiOty6cWbrb9Qmq/giphy.gif" />
-</div>
-
+<div align="center"><img width="498" height="200" alt="luffy-banner" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3JwZnE4cGMwd2FlbTU0OHU4bXZkOGx5NXF4NWw5YzUzbWRzemNsbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4eTuzu8xIEqdDfPu9J/giphy.gif" /></div>
 
 <h1 align="center">🔥 Ahmad Hamdani 🔥</h1>
 
